@@ -1,0 +1,12 @@
+.cube {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+
+    display: inline-block;
+    margin: 20px;
+}
+
+.red {background-color: red;}
+.blue {background-color: blue;}
+.yellow {background-color: yellow;}
